@@ -1,0 +1,278 @@
+ul{
+  list-style-type:none
+}
+
+#commentary_users {
+  width:560px;
+}
+.testimonial {
+
+}
+.testimonial li{
+  padding-bottom: 50px;
+
+}
+.testimonial li a{
+  float: left;
+
+}
+.testimonial li blockquote{
+  margin-left: 10px;
+
+
+}
+.testimonial li blockquote{
+ text-align: justify;
+
+
+}
+/*.error {
+  font-weight: bold;
+  color: #FF0000;
+}
+
+.topscoreheader {
+  text-align: center;
+  font-size: 200%;
+  background-color: #36407F;
+  color: #FFFFFF;
+}
+
+.score {
+  font-size:150%;
+  color: #36407F;
+}
+
+.scoreinfo {
+  vertical-align: top;
+  padding-right:15px;
+}
+img.tamanho { 
+  width: 120px;
+  height: 120px;
+}*/
+
+
+
+/*depoimentos*//*
+#content_intro #home_features li p,#content_intro #whos_using li p,#content_main #commentary_users p,#content_main .press_quotes p,#content_intro #home_accountants p,#content_intro #bodged p,#content_main #en_quote p{
+  font-size:13px
+}
+
+#commentary_users p{
+  margin-bottom:0
+}
+
+ul#commentary_users{
+  overflow:hidden;
+  margin-bottom:0
+}
+
+#commentary_users{
+  float:left;
+  margin:0 0 0 40px;
+  width:560px
+}
+
+#content_main #commentary_users li{
+  float:left;
+  clear:both;
+  margin-bottom:20px;
+  background:0;
+  padding-left:0
+}
+
+#commentary_users cite{
+  float:left;
+  margin:5px 0 0 45px;
+  font-size:12px;
+  color:#000;
+  font-weight:700;
+  font-style:normal
+}
+
+#commentary_users cite .context{
+  font-weight:400;
+  color:#777
+}
+
+#commentary_users blockquote{
+  width:285px;
+  margin-left:10px;
+  padding-left:35px;
+  background:url(//d38ccor925k45q.cloudfront.net/website/images/site-assets/site/quote-l.png) left top no-repeat
+}
+
+#buzz #commentary_users{
+  width:auto;
+  float:left;
+  margin:0
+}
+
+#buzz #commentary_users li{
+  float:left;
+  margin-right:30px;
+  width:420px;
+  margin-bottom:30px
+}
+
+#buzz #commentary_users li.omega{
+  clear:none;
+  width:480px
+}
+
+#buzz #commentary_users li blockquote{
+  width:245px
+}
+
+#buzz #commentary_users li.omega blockquote{
+  width:305px
+}
+
+
+
+.col3,.press_quotes li,.testimonials li{
+  float:left;
+  width:280px;
+  margin-right:60px;
+  margin-bottom:15px
+}
+
+ul#buzz_testimonials cite,#commentary_press cite{
+  padding-left:0
+}
+
+#content_main #pricing_faqs li,#content_main ul.testimonials li,#content_main .data_view li,#content_main #partner_list li{
+  padding-left:0;
+  background:0
+}
+
+#content_main .testimonials p{
+  margin:0;
+  font-size:13px
+}
+
+#content_main .testimonials li.lead_cs blockquote{
+  padding-left:35px;
+  background:url(//d38ccor925k45q.cloudfront.net/website/images/site-assets/site/quote-w.png) left top no-repeat;
+  margin-bottom:20px
+}
+
+#content_main .testimonials li.lead_cs p{
+  font-size:14px;
+  color:#fff
+}
+
+#content_main .testimonials li.lead_cs cite{
+  padding-left:0;
+  color:#fff
+}
+
+#content_main .testimonials li.lead_cs .button{
+  margin-left:50px
+}
+
+#content_main #testimonial_quotes cite,#content_main #press_reviews cite,#intro_quote cite{
+  padding-left:35px
+}
+.testimonial a:hover img{
+  -webkit-transform:rotate(2deg);
+  -webkit-transform-origin:left bottom;
+  -moz-transform:rotate(2deg);
+  -moz-transform-origin:left bottom;
+  -webkit-box-shadow:0 0 5px rgba(0,0,0,.5);
+  -moz-box-shadow:0 0 5px rgba(0,0,0,.4);
+  box-shadow:0 0 5px rgba(0,0,0,.4)
+}
+#home_features li a:hover img,#home_features li a img,.thums li a:hover img,.thums li a img,.testimonial a img{
+  -webkit-transition:all .3s ease-in-out;
+  -moz-transition:all .3s ease-in-out
+}
+#content_main #testimonial_quotes li:target,press_reviews li:target{
+  -webkit-animation-name:fade;
+  -webkit-animation-duration:2s;
+  -webkit-animation-timing-function:ease-in-out
+}
+.testimonial blockquote{
+  float:left
+}
+
+.testimonial img{
+  float:left;
+  border:5px solid #ccc
+}
+.testimonial,.press_quote{
+  width:305px;
+  float:left;
+  margin:0 25px 10px 0
+}
+
+.testimonial img{
+  float:left;
+  border:1px solid #ccc
+}
+
+.testimonial blockquote{
+  float:left;
+  margin-left:15px;
+  width:195px
+}
+
+#content_main #testimonial_quotes li{
+  padding:0;
+  padding-top:20px;
+  background:0;
+  border-bottom:1px dotted #ccc;
+  clear:both;
+  overflow:hidden
+}
+
+#content_main #testimonial_quotes li:first-child{
+  margin-top:0
+}
+
+#content_main #testimonial_quotes li:target{
+  background:#fefdcc
+}
+
+#content_main #testimonial_quotes img{
+  margin:0 0 20px 20px
+}
+#content_main .testimonials li.lead_cs{
+  background:#1b9acc url(//d38ccor925k45q.cloudfront.net/website/images/site-assets/users/craig_mckenna1.jpg) left center no-repeat;
+  padding:25px 25px 25px 290px;
+  width:305px;
+  float:left;
+  margin-bottom:30px
+}
+
+#content_main .testimonials li.lead_cs blockquote{
+  width:auto;
+  float:none
+}
+
+#content_main .testimonials li{
+  margin-bottom:23px
+}
+
+#content_main .testimonials li{
+  margin-bottom:23px
+}
+
+#content_main .press_quotes li{
+  background:0;
+  padding:0
+}
+
+.testimonials img{
+  float:left;
+  border:1px solid #ccc
+}
+
+.testimonials blockquote{
+  float:left;
+  padding-left:0;
+  width:170px;
+  background:0;
+  margin-left:15px
+}*/
